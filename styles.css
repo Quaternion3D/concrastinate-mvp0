@@ -7,17 +7,26 @@ html, body {
     height: 100%;
 }
 
+.fill-half {
+    min-height: 50%;
+    height: 50%;
+}
+
 .landing-title {
     font-size:72px;
 }
 
 .landing-row {
-    padding-top:50px;
-    padding-bottom:50px;
+    padding-top:25px;
+    padding-bottom:25px;
 }
 
 .nav-link-blue {
     color:#0275d8;
+}
+
+.nav-white {
+    background-color: white;
 }
 
 
